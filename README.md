@@ -4,7 +4,7 @@ This repository contains the parameters were extracted from the Phase Space imag
 
 ![figure features extraction](docs/figures/fig_features_extraction.png)
 
-#### Metadata description
+### Metadata description
 
 | Features | Description |
 |--|--|
@@ -22,6 +22,7 @@ This repository contains the parameters were extracted from the Phase Space imag
 | z4 | Method of counting weighted boxes for derivation Vz  |
 | Class | Signs of healthy (0) and pathological (1) patients. |
 
+### Distribution of ECG signals
 
 ![Signals distribuitions](docs/figures/fig_signals_distribuition.png)
 
