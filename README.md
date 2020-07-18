@@ -1,3 +1,4 @@
+
 ### Description
 
 This repository contains the parameters were extracted from the Phase Space images, accomplished by the methods: box counting method, the difference method, the similarity method and the weighted box counting method ([Roopaei. *et al* (2010)](https://doi.org/10.1016/j.bspc.2010.05.003)). Each one generated a numeric value corresponding to the chaotic dimension of the Phase Space for each orthogonal Frank-lead, resulting in twelve parameters per VCG signal. These methods are illustrated below.
@@ -22,7 +23,9 @@ This repository contains the parameters were extracted from the Phase Space imag
 | z4 | Method of counting weighted boxes for derivation Vz  |
 | Class | Signs of healthy (0) and pathological (1) patients. |
 
-### Distribution of ECG signals
+### Distribution of classes
+
+In this work, the [Physikalisch-Technische Bundesanstalt (PTB)](http://physionet.incor.usp.br/physiobank/database/ptbdb/) Diagnostic ECG Database was used. This dataset is one of the most used in the literature, and is characterized by offering a standardized and well documented database, providing data from 290 subjects (patients), each with 1 to 7 signals containing the standard 12 ECG leads plus the X, Y, Z Frank leads.
 
 ![Signals distribuitions](docs/figures/fig_signals_distribuition.png)
 
