@@ -20,6 +20,10 @@ This repository contains the parameters were extracted from the Phase Space imag
 | x4 | Method of counting weighted boxes for derivation Vx |
 | y4 | Method of counting weighted boxes for derivation Vy |
 | z4 | Method of counting weighted boxes for derivation Vz  |
+| Class | Signs of healthy (0) and pathological (1) patients. |
+
+
+![Signals distribuitions](docs/figures/fig_signals_distribuition.png)
 
 
 ### Usage
